@@ -8,7 +8,15 @@ Age  of  Information  (AoI)  is  a  key  metric  to  understand  data  freshness
 
 
 
+# Acknowledgments
+We gratefully acknowledge the partial financial support of project [ENLIGHT'EM](https://enlightem.eu/)
+(European Training Network in Low-Energy Visible Light IoT Systems, H2020-MSCA-ITN-2018, grant number 814215
+
+
 # Copyright
 Copyright (C) 2020 TU Delft Embedded and Networked Systems Group/Sustainable Systems Laboratory.
 
 MIT Licence or otherwise specified. See [licence](https://github.com/TUDSSL/intermittency-aoi/blob/main/LICENSE) file for details
+
+
+
