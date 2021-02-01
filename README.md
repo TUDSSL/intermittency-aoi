@@ -21,6 +21,18 @@ Authors: [James Scott Broadhead](https://jamesbroadhead.com/) and [Przemysław P
 
 Publication title: Data Freshness in Mixed-Memory Intermittently-Powered Systems
 
+To cite this publication please use the following BiBTeX entry.
+
+```
+@misc{broadhead:intermittent-aoi:2021,
+  title = {},
+  author = {},
+  year = {2021},
+  month = feb,
+  note = {submitted for publication}
+}
+'''
+
 # Acknowledgments
 We gratefully acknowledge the partial financial support of project [ENLIGHT'EM](https://enlightem.eu/)
 (European Training Network in Low-Energy Visible Light IoT Systems, H2020-MSCA-ITN-2018, grant number 814215)
