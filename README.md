@@ -15,8 +15,10 @@ Age  of  Information  (AoI)  is  a  key  metric  to  understand  data  freshness
 
 
 # How to Cite This Work
+The results of this project have been submitted for publication Feburary 2021. 
 
-
+Authors: James Scott Broadhead and Przemysław Pawełczak
+Publication title: Data Freshness in Mixed-Memory Intermittently-Powered Systems
 
 # Acknowledgments
 We gratefully acknowledge the partial financial support of project [ENLIGHT'EM](https://enlightem.eu/)
