@@ -24,6 +24,14 @@
 %This script generates Figure 3a (E[h] against Aoi for RF1 and RF2) 
 %Taken from the paper "Data Freshness in Mixed-Memory
 %Intermittently-Powered Systems" by James Scott Broadhead and Przemysław Pawełczak. 
+%To cite this publication please use the following BiBTeX entry.
+%@misc{broadhead:intermittent-aoi:2021,
+%  title = {Data Freshness in Mixed-Memory Intermittently-Powered Systems},
+%  author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
+%  year = {2021},
+%  month = feb,
+%  note = {submitted for publication}
+%}
 
 
 P = 500;        %Total processing time
