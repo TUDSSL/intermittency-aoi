@@ -31,7 +31,7 @@ To cite this publication please use the following BiBTeX entry.
   month = feb,
   note = {submitted for publication}
 }
-'''
+```
 
 # Acknowledgments
 We gratefully acknowledge the partial financial support of project [ENLIGHT'EM](https://enlightem.eu/)
