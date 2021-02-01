@@ -26,6 +26,14 @@
 %Intermittently-Powered Systems" by James Scott Broadhead and Przemysław Pawełczak. 
 %This result is not directly taken from the paper but is shown here for
 %completeness. 
+%To cite this publication please use the following BiBTeX entry.
+%@misc{broadhead:intermittent-aoi:2021,
+%  title = {Data Freshness in Mixed-Memory Intermittently-Powered Systems},
+%  author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
+%  year = {2021},
+%  month = feb,
+%  note = {submitted for publication}
+%}
 
 syms vary c3 c4 h D I;                                              %Set symbolic parameters
 eqn = (vary)/(2*c3+(c4)/(h)+2*D*h)-I+(3/2)*(c3+(c4)/(2*h)+D*h)== 0; %Taken from equation (19) from paper
