@@ -25,6 +25,14 @@
 %to generate equations (15) in the form of Q and (16) in the form of S.
 %Taken from the paper "Data Freshness in Mixed-Memory
 %Intermittently-Powered Systems" by James Scott Broadhead and Przemysław Pawełczak. 
+%To cite this publication please use the following BiBTeX entry.
+%@misc{broadhead:intermittent-aoi:2021,
+%  title = {Data Freshness in Mixed-Memory Intermittently-Powered Systems},
+%  author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
+%  year = {2021},
+%  month = feb,
+%  note = {submitted for publication}
+%}
 
 syms f c1 c2 p h d p;                           %Set symbolic parameters
 eqn = 2*f*(c1+(p)/(2*h))+c2+p+2*d*h == 0;       %Taken from equation (14) from paper
