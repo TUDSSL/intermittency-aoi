@@ -22,9 +22,11 @@
 %SOFTWARE.
 
 %This script generates Figure 3b (E[f] against Aoi for various memory structures)
-%Taken from the paper "Data Freshness in Mixed-Memory
-%Intermittently-Powered Systems" by James Scott Broadhead and Przemysław Pawełczak. 
+%in the paper "Data Freshness in Mixed-Memory Intermittently-Powered Systems" 
+%by James Scott Broadhead and Przemysław Pawełczak.
+
 %To cite this publication please use the following BiBTeX entry.
+
 %@misc{broadhead:intermittent-aoi:2021,
 %  title = {Data Freshness in Mixed-Memory Intermittently-Powered Systems},
 %  author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
@@ -32,6 +34,7 @@
 %  month = feb,
 %  note = {submitted for publication}
 %}
+
 
 P = 500;                %Total processing time
 I = 200;                 %System idle time
