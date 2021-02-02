@@ -21,11 +21,13 @@
 %OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 %SOFTWARE.
 
-%This script solves the simple differentiation of equation (14) w.r.t E[h]
-%to generate equations (15) in the form of Q and (16) in the form of S.
-%Taken from the paper "Data Freshness in Mixed-Memory
-%Intermittently-Powered Systems" by James Scott Broadhead and Przemysław Pawełczak. 
+%This script solves the simple differentiation of equation (14) with respect 
+%to E[h] to generate equations (15) in the form of Q and (16) in the form of S
+%in the paper "Data Freshness in Mixed-Memory Intermittently-Powered Systems" 
+%by James Scott Broadhead and Przemysław Pawełczak.
+
 %To cite this publication please use the following BiBTeX entry.
+
 %@misc{broadhead:intermittent-aoi:2021,
 %  title = {Data Freshness in Mixed-Memory Intermittently-Powered Systems},
 %  author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
