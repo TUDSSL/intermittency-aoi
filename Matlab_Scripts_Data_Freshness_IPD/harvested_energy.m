@@ -37,7 +37,7 @@
 P = 500;        %Total processing time
 I = 200;         %System idle time
 R1 = 50;         %R RF1 system
-R2 = 50;         %R RF2 system
+R2 = 75;         %R RF2 system
 V = 10;          %Restoration overhead 
 D = 5;          %Checkpoint overhead 
 f1 = 15;       %Failure rate of RF1 system
