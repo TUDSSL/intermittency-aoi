@@ -32,7 +32,9 @@ To cite this publication please use the following BiBTeX entry.
   author = {James Scott {Broadhead} and Przemys\l{}aw {Pawe\l{}czak}},
   year = {2021},
   month = feb,
-  note = {submitted for publication}
+  eprint = {2102.01572},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.IT}
 }
 ```
 
