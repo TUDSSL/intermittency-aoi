@@ -18,7 +18,7 @@ The following code is used in generating numerical results and verifies result o
 
 ## How to Cite This Work
 
-The results of this project have been submitted for publication in Feburary 2021 and are available to view on [arXiv](https://arxiv.org/abs/2102.01572)
+The results of this project have been submitted for publication in Feburary 2021 and are available to view on [arXiv](https://arxiv.org/abs/2102.01572).
 
 Authors: [James Scott Broadhead](https://jamesbroadhead.com/) and [Przemysław Pawełczak](https://pawelczak.net/)
 
