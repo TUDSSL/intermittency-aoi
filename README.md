@@ -1,11 +1,11 @@
 # Data Freshness in Mixed-Memory Intermittently-Powered Systems
 
-This is the official public repository for the paper [_Data Freshness in Mixed-Memory Intermittently-Powered Systems_](https://arxiv.org/abs/2102.01572) by [James Scott Broadhead](https://jamesbroadhead.com/) and [Przemysław Pawełczak](https://pawelczak.net/). The paper was accepted to ISIT 2021. 
+This is the official public repository for the paper [_Data Freshness in Mixed-Memory Intermittently-Powered Systems_](https://arxiv.org/abs/2102.01572) by [James Scott Broadhead](https://jamesbroadhead.com/) and [Przemysław Pawełczak](https://pawelczak.net/). The paper was accepted to IEEE ISIT 2021. 
 
 
-## ISIT 2021 Video Presentations
+## IEEE ISIT 2021 Video Presentations
 
-The ISIT 2021 presentation videos can be found at [Highlights Video](https://www.youtube.com/watch?v=rk0C7sjEizo) and [Full Video](https://www.youtube.com/watch?v=zaflemi3dKQ).
+The IEEE ISIT 2021 presentation videos can be found at [Highlights Video](https://www.youtube.com/watch?v=rk0C7sjEizo) and [Full Video](https://www.youtube.com/watch?v=zaflemi3dKQ).
 
 ## Paper Abstract
 
