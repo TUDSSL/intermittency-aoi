@@ -6,9 +6,9 @@ This is the official public repository for the paper [_Data Freshness in Mixed-M
 
 Age  of  Information  (AoI)  is  a  key  metric  to  understand  data  freshness  in  Internet  of  Things  (IoT)  devices.  In this  paper  we  analyse  an  intermittently-powered  IoT  sensor with  mixed-memory  (volatile  and  non-volatile)  architecture—that  uses  a  Time-Dependent  Checkpointing  (TDC)  scheme.  We derive the average Peak Age of Information (PAoI) and average AoI  of  the  system,  and  use  these  metrics  to  understand  which device  parameters  most  significantly  influence  performance.  We go  on  to  consider  how  the  average  PAoI  of  a  mixed-memory system  compares  with  entirely  volatile  or  entirely  non-volatile architecture,  and  also  introduce  an  alternative  TDC  strategy to   improve   system   resilience   in   unpredictable   environmental conditions.
 
-## IEEE ISIT 2021 Video Presentations
+## IEEE ISIT 2021 Presentation
 
-The [IEEE ISIT 2021](https://2021.ieee-isit.org/) conference presentation videos can be found via the following links: [IEEE ISIT 2021 highlights video](https://www.youtube.com/watch?v=rk0C7sjEizo) and [IEEE ISIT 2021 full video](https://www.youtube.com/watch?v=zaflemi3dKQ).
+The [IEEE ISIT 2021](https://2021.ieee-isit.org/) conference presentation is available [here](Data_freshness_in_mixed_memory_intermittently_powered_systems_James_Broadhead_Slides_28_05_21.pdf) while the recorder videos of the presentation can be found via the following links: [IEEE ISIT 2021 highlights video](https://www.youtube.com/watch?v=rk0C7sjEizo) and [IEEE ISIT 2021 full video](https://www.youtube.com/watch?v=zaflemi3dKQ).
 
 ## Code Description
 
